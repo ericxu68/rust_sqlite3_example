@@ -10,8 +10,7 @@
 ```bash
 rustup install 1.35.0
 rustup default 1.35.0
-rustup component add rustfmt
-rustup component add clippy
+rustup component add rls rust-analysis rust-src rustfmt clippy
 ```
 
 ## Run (debug)
