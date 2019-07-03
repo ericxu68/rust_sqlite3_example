@@ -1,0 +1,7 @@
+[package]
+name = "rust_sqlite3_example"
+version = "0.1.0"
+authors = ["Nobutaka Oshiro <notakaos@stdout.me>"]
+edition = "2018"
+
+[dependencies]
